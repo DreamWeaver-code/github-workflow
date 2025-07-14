@@ -1,3 +1,3 @@
 # github-workflow
 
-To Improve is to Change
+All that you change, changes you.
